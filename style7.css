@@ -1,0 +1,8 @@
+.box{
+    border-color: green;
+    border-style: dashed dotted groove inset;
+    border-width: 10px;
+    height: 20px;
+    width: 50px;
+
+}
